@@ -1,0 +1,19 @@
+{
+    "name": "ionstech/aliyun-log-php-sdk",
+    "description": "Aliyun Log PHP SDK with composer integration",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mario Suharja",
+            "email": "mario@mss.io"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "files": ["Log_Autoload.php"]
+    }
+}
